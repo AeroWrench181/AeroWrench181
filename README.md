@@ -5,7 +5,7 @@
       
 👀 I’m interested in aerospace systems, simulations, integrations, and real-world automation  
 💞️ I’m looking to collaborate on aerospace tools, automation scripts, or practical tech projects  
-📫 How to reach me: [Send me an email](mailto:affanasiff@gmail.com)
+📫 How to reach me: [Send me an email](affanasiff@gmail.com)
 
 🧠 What I’m Currently Working On
   ✈️ Morphing wing design with compliant mechanisms
