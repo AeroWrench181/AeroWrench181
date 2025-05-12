@@ -8,7 +8,7 @@
 📫 How to reach me: [Send me an email](mailto:128669862+AeroWrench181@users.noreply.github.com)
 
 
-🧠 What I’m Currently Working On
+🧠 I’m Currently Working On
   ✈️ Wing compliant mechanisms
   🧮 Physics + motion simulations in Python and MATLAB
   🤖 Arduino/ESP32 control systems for aerospace prototypes
@@ -16,7 +16,7 @@
 
 🔧 Tech Stack
 `Python` `MATLAB` `C++` `Fusion 360` `SolidWorks` `Git` `Arduino`  
-  Also learning: `ROS` `LaTeX` `NumPy` `OpenCV` `System Integrations` `Home Automation`
+  Also learning: `ROS` `MapleTA` `LaTeX` `NumPy` `OpenCV` `System Integrations` `Home Automation` 
 
 ## 📂 Projects
 Check my pinned repos below to see:
