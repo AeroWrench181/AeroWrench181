@@ -9,7 +9,7 @@
 
 
 🧠 What I’m Currently Working On
-  ✈️ Morphing wing design with compliant mechanisms
+  ✈️ Wing compliant mechanisms
   🧮 Physics + motion simulations in Python and MATLAB
   🤖 Arduino/ESP32 control systems for aerospace prototypes
   🔗 Systems integration projects — linking sensors, scripts, and tools into seamless workflows
