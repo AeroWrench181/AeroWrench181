@@ -15,7 +15,7 @@
   🔗 Systems integration projects — linking sensors, scripts, and tools into seamless workflows
 
 🔧 Tech Stack
-`Python` `MATLAB` `C++` `Fusion 360` `SolidWorks` `Git` `Arduino`  
+`Python` `MATLAB` `C++` `Fusion 360` `SolidWorks` `Git` `Arduino` `Zapier/Tophat`
   Also learning: `ROS` `MapleTA` `LaTeX` `NumPy` `OpenCV` `System Integrations` `Home Automation` 
 
 ## 📂 Projects
